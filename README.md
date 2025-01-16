@@ -35,7 +35,7 @@ To start the server to test:
 - open cypress in second terminal:
 - npm run test
 
-Sample-Video []()
+[Sample-Video](https://drive.google.com/file/d/1KXJ_ktSbCzqeAQESYnNkHceOyBMfbMx4/view?usp=sharing)
 
 ## Contribution
 Any contributions for improving the test coverage, usability, or any other features are welcome. Fork the repository, create a new branch, and submit a pull request with your changes.
