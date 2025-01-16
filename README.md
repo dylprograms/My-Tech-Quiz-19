@@ -18,6 +18,8 @@ Enhances the starter codebase of a fully functioning Tech Quiz application by ad
    git clone https://github.com/dylprograms/My-Tech-Quiz-19.git
 Navigate to the project directory:
 
+[gitRepo](https://github.com/dylprograms/My-Tech-Quiz-19)
+
 - cd My-Tech-quiz-19
 - Install dependencies:
 - npm install
