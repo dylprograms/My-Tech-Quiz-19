@@ -13,12 +13,15 @@
     "client:dev": "cd client && npm run dev",
     "build": "cd server && npm run build",
     "seed": "cd server && npm run seed",
-    "render-build": "npm install && npm run build"
+    "render-build": "npm install && npm run build",
+    "test": "npx cypress run --browser electron --headless",
+    "cypress": "npx cypress open"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@cypress/code-coverage": "^3.13.10",
     "@types/react": "^18.3.3",
     "@vitejs/plugin-react": "^4.3.1",
     "concurrently": "^8.2.2",
